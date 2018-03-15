@@ -1,0 +1,41 @@
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000; 
+}
+
+.container-fluid {
+  height: 300px;
+  background-image: url('/assets/img/cover.jpg');
+  background-size: cover;
+}
+
+.marker {
+  color: #FFFFFF;
+  background-color: #000000;
+  padding: 10px;
+  display: inline-block;
+}
+
+.marker.marker-1 {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.marker.marker-2 {
+  font-size: 26px;
+  margin-top: 20px;
+}
+
+.marker.marker-3 {
+  font-size: 26px;
+  margin-top: 10px;
+}
+
+.sharethis-container {
+  padding: 20px;
+}
+
+.row.timer {
+  font-size: 50px;
+  padding: 50px 0px;
+}
